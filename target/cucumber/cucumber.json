@@ -1,0 +1,75 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Login",
+        "description": "",
+        "id": "login;login",
+        "after": [
+          {
+            "result": {
+              "duration": 803089862,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3747301131,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I have opened the browser",
+            "match": {
+              "location": "LoginSteps.I_have_opened_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 150536929,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I send my credentials",
+            "match": {
+              "location": "LoginSteps.i_send_my_credentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3085347690,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see the title of the page",
+            "match": {
+              "location": "LoginSteps.i_should_see_the_title_of_the_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Login",
+    "description": "",
+    "id": "login",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  }
+]
