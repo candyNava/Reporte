@@ -63,3 +63,12 @@
 2022-03-11 11:30:53 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.get.json' contain 1 features
 2022-03-11 11:30:53 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
 2022-03-11 11:30:53 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-11 13:20:51 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.background.json' contain 1 features
+2022-03-11 13:20:51 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
+2022-03-11 13:20:51 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-11 13:24:43 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.background.json' contain 1 features
+2022-03-11 13:24:43 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
+2022-03-11 13:24:43 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-11 13:39:17 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.background.json' contain 1 features
+2022-03-11 13:39:17 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
+2022-03-11 13:39:17 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
