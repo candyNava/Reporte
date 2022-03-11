@@ -60,3 +60,6 @@
 2022-03-11 11:26:30 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.get.json' contain 1 features
 2022-03-11 11:26:30 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
 2022-03-11 11:26:30 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-11 11:30:53 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.get.json' contain 1 features
+2022-03-11 11:30:53 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
+2022-03-11 11:30:53 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
