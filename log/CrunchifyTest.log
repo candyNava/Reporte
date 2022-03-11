@@ -52,3 +52,8 @@
 2022-03-07 18:31:46 [main] INFO  ReportBuilder:229 - net.masterthought.cucumber.ValidationException: None report file was added!
 2022-03-08 13:10:18 [main] INFO  ReportBuilder:229 - net.masterthought.cucumber.ValidationException: None report file was added!
 2022-03-08 13:12:55 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-08 16:20:46 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-08 16:21:10 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-08 16:22:37 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-11 10:52:51 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
+2022-03-11 10:52:51 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
