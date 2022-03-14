@@ -72,3 +72,15 @@
 2022-03-11 13:39:17 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.background.json' contain 1 features
 2022-03-11 13:39:17 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
 2022-03-11 13:39:17 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-14 11:34:54 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.assertion.json' contain 1 features
+2022-03-14 11:34:54 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.background.json' contain 1 features
+2022-03-14 11:34:54 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
+2022-03-14 11:34:54 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-14 11:43:54 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.assertion.json' contain 1 features
+2022-03-14 11:43:54 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.background.json' contain 1 features
+2022-03-14 11:43:54 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
+2022-03-14 11:43:54 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
+2022-03-14 11:59:50 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.assertion.json' contain 1 features
+2022-03-14 11:59:50 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.background.json' contain 1 features
+2022-03-14 11:59:50 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.getList.json' contain 1 features
+2022-03-14 11:59:50 [main] INFO  ReportParser:59 - File 'C:\Users\Eduardo\IdeaProjects\cucumber\Reporte\target\karate-reports\examples.test.test.json' contain 1 features
